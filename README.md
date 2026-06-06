@@ -236,28 +236,9 @@ All specified timing constraints were met during synthesis.
 
 ---
 
-## Project Files
-
-```text
-alu-verilog/
-│
-├── rtl/
-│   └── ALU.v
-│
-├── tb/
-│   └── tb_alu.v
-│
-├── waveforms/
-│   └── alu_waveform.png
-│
-├── reports/
-│   └── ALU_utilization_synth.rpt
-│
-└── README.md
-```
-
----
-
 ## Conclusion
 
 This project demonstrates the design, simulation, and synthesis of an 8-bit synchronous ALU capable of performing arithmetic, logical, and shift operations. The implementation efficiently utilizes FPGA resources while providing essential status flags commonly found in processor datapaths and digital systems.
+
+## Author
+   Madhu Visagan H T
