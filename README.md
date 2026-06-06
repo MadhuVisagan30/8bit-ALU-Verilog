@@ -186,7 +186,7 @@ Simulation waveforms confirmed the correct functionality of all operations and s
 - Zero = 1
 - Overflow = 0
 
-![Addition Carry](waveforms/testcase_2.png)
+![Addition Carry](SIMULATION/testcase_3.png)
 
 ---
 
@@ -205,7 +205,7 @@ This waveform verifies all supported ALU operations:
 | 110 | Right Shift |
 | 111 | Left Shift |
 
-![ALU Operations](waveforms/testcase_3.png)
+![ALU Operations](SIMULATION/testcase_2.png)
 
 ---
 
