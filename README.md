@@ -169,7 +169,7 @@ Simulation waveforms confirmed the correct functionality of all operations and s
 - Overflow = 1
 - Carry = 0
 
-![Addition Overflow](waveforms/testcase_1.png)
+![Addition Overflow](SIMULATION/testcase_1.png)
 
 ---
 
